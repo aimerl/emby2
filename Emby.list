@@ -1,0 +1,6 @@
+# 内容：Emby 服务器
+# 域名关键字匹配
+DOMAIN-KEYWORD,Emby
+# 域名后缀匹配
+DOMAIN-SUFFIX,stream1.misakaf.org
+
